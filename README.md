@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Josiah 👋
 
-<!--
-**Joshuajking/joshuajking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 Backend Software Engineer | DevOps | Python & Django
 
-Here are some ideas to get you started:
+I build scalable backends and cloud infrastructure using:
+**Python**, **Django**, **PostgreSQL**, **Redis**, **AWS**, and **Docker**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I'm currently:
+- Building homelab and AI orchestration systems
+- Deepening my backend mastery through project-based learning
+- Exploring real estate investing for long-term passive income
+
+🌐 [Portfolio](https://techbunker.dev)
+💼 [LinkedIn]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/joshuakingdev/))
+✉️ [Email Me](mailto:joshuaking@techbunker.dev)
