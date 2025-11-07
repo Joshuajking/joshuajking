@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://techbunker.dev/portfolio">
+  <a href="https://techbunker.dev/portfolio" arget="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=hugo&logoColor=white" alt="Portfolio"/>
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/joshuakingdev">
+  <a href="https://linkedin.com/in/joshuakingdev" arget="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>&nbsp;&nbsp;
   <a href="mailto:joshuaking@techbunker.dev">
